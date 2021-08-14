@@ -1,5 +1,10 @@
 {
-  "workspace": {},
+  "workspace": {
+    "https://github.com/CM-Ho/helloWorld_CM-Ho.git": [
+      "CM-Ho/helloWorld_CM-Ho",
+      "1628948597729"
+    ]
+  },
   "studio-open-web": {},
   "studio-open-git": {
     "https://github.com/CM-Ho/helloWorld_CM-Ho.git:helloWorld.groovy": [
