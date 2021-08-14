@@ -13,10 +13,10 @@
       "X-Box",
       "Dragon"
     ],
-    "linkDeviceName": "kevkat",
-    "robotName": "MediumKat",
+    "linkDeviceName": "midnight",
+    "robotName": "Luna",
     "robotGitFile": "MediumKat.xml",
-    "robotGit": "https://github.com/OperationSmallKat/greycat.git"
+    "robotGit": "https://github.com/OperationSmallKat/Luna.git"
   },
   "studio-open-git": {},
   "BowlerStudioConfigs": {
