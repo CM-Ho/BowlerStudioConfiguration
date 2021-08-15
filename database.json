@@ -17,10 +17,10 @@
       "X-Box",
       "Dragon"
     ],
-    "linkDeviceName": "midnight",
-    "robotName": "Luna",
-    "robotGitFile": "MediumKat.xml",
-    "robotGit": "https://github.com/OperationSmallKat/Luna.git"
+    "linkDeviceName": "kevkat",
+    "robotName": "MediumKat_copy",
+    "robotGitFile": "MediumKat_copy.xml",
+    "robotGit": "https://github.com/CM-Ho/MediumKat_copy.git"
   },
   "studio-open-git": {
     "https://github.com/CM-Ho/MediumKat_copy.git:Bowler/MediumCad.groovy": [
