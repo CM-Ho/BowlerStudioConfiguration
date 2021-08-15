@@ -22,7 +22,16 @@
     "robotGitFile": "MediumKat.xml",
     "robotGit": "https://github.com/OperationSmallKat/Luna.git"
   },
-  "studio-open-git": {},
+  "studio-open-git": {
+    "https://github.com/CM-Ho/MediumKat_copy.git:Bowler/MediumCad.groovy": [
+      "https://github.com/CM-Ho/MediumKat_copy.git",
+      "Bowler/MediumCad.groovy"
+    ],
+    "https://github.com/CM-Ho/MediumKat_copy.git:MediumKat_copy.xml": [
+      "https://github.com/CM-Ho/MediumKat_copy.git",
+      "MediumKat_copy.xml"
+    ]
+  },
   "BowlerStudioConfigs": {
     "tutorialSource": "https://github.com/CommonWealthRobotics/CommonWealthRobotics.github.io.git",
     "firstVersion": "1.30.0",
