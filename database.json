@@ -18,9 +18,9 @@
       "Dragon"
     ],
     "linkDeviceName": "kevkat",
-    "robotName": "MediumKat_copy",
-    "robotGitFile": "MediumKat_copy.xml",
-    "robotGit": "https://github.com/CM-Ho/MediumKat_copy.git"
+    "robotName": "MediumKat",
+    "robotGitFile": "MediumKat.xml",
+    "robotGit": "https://github.com/OperationSmallKat/greycat.git"
   },
   "studio-open-git": {},
   "BowlerStudioConfigs": {
