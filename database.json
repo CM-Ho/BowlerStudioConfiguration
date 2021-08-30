@@ -22,16 +22,7 @@
     "robotGitFile": "MediumKat_copy.xml",
     "robotGit": "https://github.com/CM-Ho/MediumKat_copy.git"
   },
-  "studio-open-git": {
-    "https://github.com/CM-Ho/MediumKat_copy.git:Bowler/MediumCad.groovy": [
-      "https://github.com/CM-Ho/MediumKat_copy.git",
-      "Bowler/MediumCad.groovy"
-    ],
-    "https://github.com/CM-Ho/MediumKat_copy.git:MediumKat_copy.xml": [
-      "https://github.com/CM-Ho/MediumKat_copy.git",
-      "MediumKat_copy.xml"
-    ]
-  },
+  "studio-open-git": {},
   "BowlerStudioConfigs": {
     "tutorialSource": "https://github.com/CommonWealthRobotics/CommonWealthRobotics.github.io.git",
     "firstVersion": "1.30.0",
